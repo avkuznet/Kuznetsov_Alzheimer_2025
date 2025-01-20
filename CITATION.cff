@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Kuznetsov
+  given-names: Andrey V
+orcid: https://orcid.org/0000-0002-2692-6907
+title: MATLAB source code accompanying the manuscript "A criterion characterizing accumulated neurotoxicity of Aβ oligomers in Alzheimer’s disease"
+version: v2
+date-released: 2025-01-19
